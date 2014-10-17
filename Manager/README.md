@@ -1,4 +1,4 @@
-Project Mannager
+Project Manager
 ===============
 
 Admin
