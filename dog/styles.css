@@ -1,5 +1,5 @@
 body, html {  
-  background:#000 url(img/bg.jpg)center center fixed no-repeat;
+  background:#fff url(img/bg.jpg)center center fixed no-repeat;
   -moz-background-size: cover;
   background-size: cover;
   font-family: 'Roboto', sans-serif;
